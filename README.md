@@ -27,4 +27,4 @@ This implementation provides a simplified version of the algorithm, focusing on 
 
 ### Implementation Details
 
-For detailed implementation insights and code walkthrough, refer to the 'IOTA Consensus Algorithm Implementation' document stored in this repository.
+For detailed implementation insights and code walkthrough, refer to the `IOTA Consensus Algorithm Implementation` document stored in this repository.
