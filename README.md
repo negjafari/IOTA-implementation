@@ -1,7 +1,7 @@
 # IOTA Consensus Algorithm implementation
 
 ## Introduction
-This implementation provides a simplified version of the algorithm, focusing on key steps involved in the consensus process.
+This implementation provides a simplified version of the algorithm, focusing on key steps involved in the consensus process. (based on IOTA paper implementation which is provided in this repository)
 
 ### Steps Implemented
 
